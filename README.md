@@ -1,1 +1,1 @@
-# query-based-meeting-summarization
+# query_based_meeting_summarization
